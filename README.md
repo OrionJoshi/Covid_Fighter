@@ -20,3 +20,7 @@
 ## Authors
 
 * **Khageshwor Joshi** - [Orion](https://github.com/khageshwor)
+
+## Contributions of any kind  are welcome!
+
+    - Leave a pull request!!! and dont forget to give a star.
